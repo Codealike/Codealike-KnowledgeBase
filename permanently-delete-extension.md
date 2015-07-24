@@ -1,4 +1,4 @@
-#Permanently Remove Codealike Extension
+##Permanently Remove Codealike Extension
 
 Rarely Visual Studio crashes before its even possible to open the "Extensions Manager", in those cases you may need to remove the extension physically.
 
