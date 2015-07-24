@@ -1,8 +1,8 @@
-### Welcome to Codealike
+## Welcome to Codealike
 
 We really hope you never to access any page here, but as with any other complex software it is simply not possible to test every single configuration found in the wild.
 
-#Does Visual Studio crashes?
+###Does Visual Studio crashes?
 
 To rule out that Codealike is the cause: [Delete Codealike extension folder](https://github.com/Codealike/Codealike-KnowledgeBase/blob/master/permanently-delete-extension.md)
 
