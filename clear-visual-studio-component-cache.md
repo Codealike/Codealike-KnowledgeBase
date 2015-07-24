@@ -1,4 +1,4 @@
-# Clear Visual Studio Component Cache
+## Clear Visual Studio Component Cache
 
 It is a well known fact that the Component Cache may corrupt on extensions installations. It happens randomly and without any warning. 
 
@@ -10,11 +10,13 @@ On Visual Studio 2015
 	2. Delete the %USERPROFILE%\AppData\Local\Microsoft\VisualStudio\14.0\ComponentModelCache directory
 	3. Restart Visual Studio.
 
+
 On Visual Studio 2013
 
 	1. Close Visual Studio (ensure devenv.exe is not present in the Task Manager)
 	2. Delete the %USERPROFILE%\AppData\Local\Microsoft\VisualStudio\12.0\ComponentModelCache directory
 	3. Restart Visual Studio.
+
 
 On Visual Studio 2012
 
@@ -28,9 +30,6 @@ On Visual Studio 2010
 	1. Close Visual Studio (ensure devenv.exe is not present in the Task Manager)
 	2. Delete the %USERPROFILE%\AppData\Local\Microsoft\VisualStudio\10.0\ComponentModelCache directory
 	3. Restart Visual Studio.
-
-
-
 
 
 
