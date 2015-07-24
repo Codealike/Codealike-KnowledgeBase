@@ -32,9 +32,9 @@ To disable just set all those to 0.
 
 We have those scripts prepared for you. 
 
-	1. Create the directory C:\Fusion or change the directory in the script to a directory that already exists.
-	2. Enable Fusion with the [Fusion-Enabled.reg](https://github.com/Codealike/Codealike-KnowledgeBase/blob/master/scripts/Fusion-Enabled.reg) script.
-	3. Start visual studio with Codealike enabled
-	4. Disable Fusion with the [Fusion-Disable.reg](https://github.com/Codealike/Codealike-KnowledgeBase/blob/master/scripts/Fusion-Disable.reg) script.
-	5. Zip the whole fusion directory and send it to us.
+1. Create the directory C:\Fusion or change the directory in the script to a directory that already exists.
+2. Enable Fusion with the [Fusion-Enabled.reg](https://github.com/Codealike/Codealike-KnowledgeBase/blob/master/scripts/Fusion-Enabled.reg) script.
+3. Start Visual Studio with Codealike enabled
+4. Disable Fusion with the [Fusion-Disable.reg](https://github.com/Codealike/Codealike-KnowledgeBase/blob/master/scripts/Fusion-Disable.reg) script.
+5. Zip the whole fusion directory and send it to us.
 
