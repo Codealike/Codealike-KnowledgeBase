@@ -12,5 +12,12 @@ If Visual Studio continue crashing then Codealike is not the reason, you should 
 If all fails, that's why our support team is for.
 [How to provide Visual Studio crash information](https://github.com/Codealike/Codealike-KnowledgeBase/blob/master/how-to-provide-crash-information.md)
 
+###Frequent Asked Questions###
+
+[Where is the Codealike extension located?](https://github.com/Codealike/Codealike-KnowledgeBase/blob/master/locate-codealike-extension.md)
+
+###Pro Tips###
+
+[Running Codealike under an authenticated proxy](https://github.com/Codealike/Codealike-KnowledgeBase/blob/master/running-codealike-under-authenticated-proxy.md).
 
 We also accept pull requests for this guide.
