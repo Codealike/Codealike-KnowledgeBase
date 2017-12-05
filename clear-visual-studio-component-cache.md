@@ -4,6 +4,12 @@ It is a well known fact that the Component Cache may corrupt on extensions insta
 
 While there are many ways to ask Visual Studio "politely" to rebuild it, this is the rudest but guaranteed way to do it.
 
+On Visual Studio 2017
+
+	1. Close Visual Studio (ensure devenv.exe is not present in the Task Manager)
+	2. Delete the %USERPROFILE%\AppData\Local\Microsoft\VisualStudio\15.0\ComponentModelCache directory
+	3. Restart Visual Studio.
+
 On Visual Studio 2015
 
 	1. Close Visual Studio (ensure devenv.exe is not present in the Task Manager)
